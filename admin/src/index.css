@@ -8,6 +8,7 @@
 body{
   min-height: 100vh;
   background-color: #FCFCFC;
+  
 }
 a{
   text-decoration: none;
@@ -20,6 +21,7 @@ hr{
 }
 .app-content{
   display: flex;
+  background-image: linear-gradient(to left,white 85%,#b8f2ff 95%);
 }
 .flex-col{
   display: flex;
